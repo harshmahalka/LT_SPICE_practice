@@ -1,0 +1,21 @@
+Circuit: * C:\Users\HP\Documents\LTspiceXVII\IE E&C\Draft2.asc
+
+.OP point found by inspection.
+
+Date: Wed Jan 20 23:21:31 2021
+Total elapsed time: 0.108 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11242
+traniter = 11242
+tranpoints = 5622
+accept = 3859
+rejected = 1763
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 50 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler2: 175 bytes object code size  0.1/0.0/[0.0]
+
